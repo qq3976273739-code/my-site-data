@@ -362,8 +362,47 @@
           "url": "https://chatgpt.com/"
         }
       ]
+    },
+    "extra_1776589341316": {
+      "1": []
+    },
+    "extra_1776588914690": {
+      "1": []
     }
   },
-  "subNavList": [],
+  "extraPages": {
+    "extra_1776588914690": {
+      "name": "加速器",
+      "id": "extra_1776588914690"
+    },
+    "extra_1776589341316": {
+      "name": "游戏网站",
+      "id": "extra_1776589341316"
+    },
+    "extra_1776590527203": {
+      "name": "直播软件",
+      "id": "extra_1776590527203"
+    }
+  },
+  "subNavList": [
+    {
+      "name": "加速器",
+      "type": "new",
+      "targetId": "extra_1776588914690",
+      "newPageName": "加速器"
+    },
+    {
+      "name": "游戏网站",
+      "type": "new",
+      "targetId": "extra_1776589341316",
+      "newPageName": "游戏网站"
+    },
+    {
+      "name": "直播软件",
+      "type": "new",
+      "targetId": "extra_1776590527203",
+      "newPageName": "直播软件"
+    }
+  ],
   "feedbackList": []
 }
