@@ -192,10 +192,6 @@
         {
           "name": "傲梅分区工具/分区助手",
           "url": "https://www.disktool.cn/feature.html"
-        },
-        {
-          "name": "Display Driver Uninstaller（DUU）卸载显卡驱动软件",
-          "url": "https://www.rjctx.com/76025.html"
         }
       ]
     },
@@ -332,62 +328,6 @@
         {
           "name": "IDM下载器(网上有破解的）",
           "url": "https://www.internetdownloadmanager.com/"
-        },
-        {
-          "name": "WPS Office",
-          "url": "https://www.wps.cn/"
-        },
-        {
-          "name": "微软 Office",
-          "url": "https://www.rjctx.com/dnrj/bgrj/off"
-        },
-        {
-          "name": "Visual Studio Code",
-          "url": "https://www.rjctx.com/bcrj/vscode"
-        },
-        {
-          "name": "Unity3D",
-          "url": "https://www.rjctx.com/bcrj/unity"
-        },
-        {
-          "name": "Python",
-          "url": "https://www.python.org/downloads/"
-        },
-        {
-          "name": "Visual C++",
-          "url": "https://www.rjctx.com/5664.html"
-        },
-        {
-          "name": "JDK",
-          "url": "https://www.rjctx.com/bcrj/kf/jdk"
-        },
-        {
-          "name": "游戏++（一款帮助你在打游戏查看硬件数据的软件也能显示帧率）",
-          "url": "https://gamepp.com/download.html"
-        },
-        {
-          "name": "微星小飞机（和游戏++功能类似）",
-          "url": "http://download-cn.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip"
-        },
-        {
-          "name": "PixPin（一款功能强大的截图软件）",
-          "url": "https://pixpin.cn/"
-        },
-        {
-          "name": "VMware Workstation Pro（一款功能强大的虚拟机可搭配系统镜像使用）",
-          "url": "https://www.rjctx.com/xtwh/xnj"
-        },
-        {
-          "name": "微信官方网页",
-          "url": "https://weixin.qq.com/"
-        },
-        {
-          "name": "QQ官方网页",
-          "url": "https://im.qq.com/index/#/"
-        },
-        {
-          "name": "格式工厂（一款免费无广的格式转换工具）",
-          "url": "https://www.pcgeshi.com/"
         }
       ]
     },
@@ -422,18 +362,8 @@
           "url": "https://chatgpt.com/"
         }
       ]
-    },
-    "top_1776586327075": {
-      "1": []
     }
   },
-  "subNavList": [
-    {
-      "name": "网络加速器",
-      "type": "new",
-      "targetId": "top_1776586327075",
-      "newPageName": "加速器"
-    }
-  ],
+  "subNavList": [],
   "feedbackList": []
 }
