@@ -1,1 +1,367 @@
-{}
+{
+  "topMenus": {
+    "top_1776565024091": {
+      "name": "微PE系统"
+    },
+    "top_1776565619477": {
+      "name": "系统镜像"
+    },
+    "top_1776566047061": {
+      "name": "系统激活工具"
+    },
+    "top_1776566362608": {
+      "name": "磁盘/显卡/CPU工具"
+    },
+    "top_1776567957525": {
+      "name": "Adobe全家桶"
+    },
+    "top_1776568723875": {
+      "name": "AutoCAD"
+    },
+    "top_1776568960689": {
+      "name": "软件集合"
+    },
+    "top_1776569422286": {
+      "name": "AI"
+    }
+  },
+  "subMenus": {},
+  "resourceLinks": {
+    "top_1776565024091": {
+      "1": [
+        {
+          "name": "CMDPE",
+          "url": "https://www.cmdpe.com/"
+        },
+        {
+          "name": "FirPE",
+          "url": "https://firpe.cn/page-247"
+        },
+        {
+          "name": "Edgeless",
+          "url": "https://home.edgeless.top/"
+        },
+        {
+          "name": "HotPE",
+          "url": "https://www.hotpe.top/"
+        },
+        {
+          "name": "冰封PE",
+          "url": "http://www.bfgho.com/"
+        },
+        {
+          "name": "大白菜PE",
+          "url": "https://www.dabaicai.com/"
+        },
+        {
+          "name": "老毛桃PE",
+          "url": "https://www.laomaotao.net/"
+        },
+        {
+          "name": "优启通",
+          "url": "https://www.itsk.com/thread/430934"
+        },
+        {
+          "name": "微PE工具箱",
+          "url": "https://www.wepe.com.cn/download.html"
+        },
+        {
+          "name": "杏雨梨云",
+          "url": "https://www.xyboot.com/"
+        },
+        {
+          "name": "小兵PE",
+          "url": "https://www.xiaobingxitong.com/"
+        }
+      ]
+    },
+    "top_1776565619477": {
+      "1": [
+        {
+          "name": "系统镜像网站",
+          "url": "https://next.itellyou.cn/"
+        },
+        {
+          "name": "Win10镜像（如果没有就是微软下架了）",
+          "url": "https://www.microsoft.com/zh-cn/software-download/windows10"
+        },
+        {
+          "name": "Win11下载",
+          "url": "https://www.microsoft.com/zh-cn/software-download/windows11"
+        },
+        {
+          "name": "Win8.1下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/windowseightone"
+        },
+        {
+          "name": "Win8下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/windowseight"
+        },
+        {
+          "name": "Win7下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/windowsseven"
+        },
+        {
+          "name": "Windows XP下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/windowsxp"
+        },
+        {
+          "name": "Windows Server下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/windowsserver"
+        },
+        {
+          "name": "Linux下载",
+          "url": "https://www.rjctx.com/xtwh/czxt/linux"
+        }
+      ]
+    },
+    "top_1776566047061": {
+      "1": [
+        {
+          "name": "HEU KMS Activator离线激活工具",
+          "url": "https://www.rjctx.com/137.html"
+        },
+        {
+          "name": "microKMS神龙版",
+          "url": "https://www.rjctx.com/12180.html"
+        },
+        {
+          "name": "KMS激活工具AAct",
+          "url": "https://www.rjctx.com/12174.html"
+        },
+        {
+          "name": "Digital Activation Program 汉化版",
+          "url": "https://www.rjctx.com/5398.html"
+        },
+        {
+          "name": "Windows10 数字许可证激活工具",
+          "url": "https://www.rjctx.com/5388.html"
+        },
+        {
+          "name": "HWIDGen数字激活工具（无汉化）",
+          "url": "https://www.rjctx.com/4979.html"
+        },
+        {
+          "name": "KMSTools",
+          "url": "https://www.rjctx.com/4946.html"
+        }
+      ]
+    },
+    "top_1776566362608": {
+      "1": [
+        {
+          "name": "CrystalDiskMark硬盘检测工具",
+          "url": "https://www.rjctx.com/75976.html"
+        },
+        {
+          "name": "Dism++",
+          "url": "https://dismxx.com/"
+        },
+        {
+          "name": "硬件狗狗HDDogBeta",
+          "url": "https://yjgg.mydrivers.com/"
+        },
+        {
+          "name": "HWiNFO 硬件信息检测工具",
+          "url": "https://www.rjctx.com/72328.html"
+        },
+        {
+          "name": "GPU-Z  显卡检测工具",
+          "url": "https://www.techpowerup.com/download/techpowerup-gpu-z/"
+        },
+        {
+          "name": "CPU-Z处理器检测工具",
+          "url": "https://www.cpuid.com/downloads/cpu-z/cpu-z_2.19-cn.zip"
+        },
+        {
+          "name": "图吧工具箱",
+          "url": "https://www.tbtool.cn/download/index.html"
+        },
+        {
+          "name": "NVIDIA",
+          "url": "https://www.nvidia.cn/"
+        },
+        {
+          "name": "AMD",
+          "url": "https://www.amd.com/zh-cn.html"
+        },
+        {
+          "name": "DiskGenius（数据恢复 / 分区管理 / 备份还原）",
+          "url": "https://www.diskgenius.cn/"
+        },
+        {
+          "name": "傲梅分区工具/分区助手",
+          "url": "https://www.disktool.cn/feature.html"
+        }
+      ]
+    },
+    "top_1776567957525": {
+      "1": [
+        {
+          "name": "Adobe Photoshop（Ps）",
+          "url": "https://www.rjctx.com/zyrj/adobe/ps"
+        },
+        {
+          "name": "Lightroom Classic（Lrc/Lr）",
+          "url": "https://www.rjctx.com/zyrj/adobe/lightroom"
+        },
+        {
+          "name": "Adobe illustrator（Ai）",
+          "url": "https://www.rjctx.com/zyrj/adobe/ai"
+        },
+        {
+          "name": "Adobe InDesign（Id）",
+          "url": "https://www.rjctx.com/zyrj/adobe/id"
+        },
+        {
+          "name": "Adobe Premiere（Pr）",
+          "url": "https://www.rjctx.com/zyrj/adobe/pr"
+        },
+        {
+          "name": "Adobe After Effects（Ae）",
+          "url": "https://www.rjctx.com/zyrj/adobe/ae"
+        },
+        {
+          "name": "Media Encoder（Me）",
+          "url": "https://www.rjctx.com/zyrj/adobe/me"
+        },
+        {
+          "name": "Adobe Animate（An）",
+          "url": "https://www.rjctx.com/zyrj/adobe/an"
+        },
+        {
+          "name": "Character Animator(Ch）",
+          "url": "https://www.rjctx.com/zyrj/adobe/can"
+        },
+        {
+          "name": "Adobe Audition（Au）",
+          "url": "https://www.rjctx.com/zyrj/adobe/au"
+        },
+        {
+          "name": "Adobe Acrobat",
+          "url": "https://www.rjctx.com/zyrj/adobe/acrobat"
+        },
+        {
+          "name": "Substance 3D Painter(Pt)",
+          "url": "https://www.rjctx.com/zyrj/adobe/painter"
+        },
+        {
+          "name": "Substance 3D Designer(Ds)",
+          "url": "https://www.rjctx.com/zyrj/adobe/substanced"
+        },
+        {
+          "name": "Substance 3D Sampler(Sa)",
+          "url": "https://www.rjctx.com/zyrj/adobe/sampler"
+        },
+        {
+          "name": "Adobe Dreamweaver(Dw)",
+          "url": "https://www.rjctx.com/zyrj/adobe/dreamweaver"
+        }
+      ]
+    },
+    "top_1776568723875": {
+      "1": [
+        {
+          "name": "CAD",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cad"
+        },
+        {
+          "name": "AutoCAD LT",
+          "url": "https://www.rjctx.com/zyrj/aotucad/autocadit"
+        },
+        {
+          "name": "AutoCAD MEP",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cadmep"
+        },
+        {
+          "name": "AutoCAD Map 3D",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cadmap"
+        },
+        {
+          "name": "AutoCAD Plant 3D",
+          "url": "https://www.rjctx.com/zyrj/aotucad/plantd"
+        },
+        {
+          "name": "CAD精简版",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cadjj"
+        },
+        {
+          "name": "CAD建筑版",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cadjzb"
+        },
+        {
+          "name": "CAD电气版",
+          "url": "https://www.rjctx.com/zyrj/aotucad/caddqb"
+        },
+        {
+          "name": "CAD机械版",
+          "url": "https://www.rjctx.com/zyrj/aotucad/cadjxb"
+        }
+      ]
+    },
+    "top_1776568960689": {
+      "1": [
+        {
+          "name": "PotPlayer",
+          "url": "http://www.potplayercn.com/"
+        },
+        {
+          "name": "VLC media player",
+          "url": "https://www.videolan.org/vlc/"
+        },
+        {
+          "name": "Geek Uninstaller(下载Free）",
+          "url": "https://geekuninstaller.com/download"
+        },
+        {
+          "name": "Bandizip（解压软件选免费版）",
+          "url": "https://tw.bandisoft.com/bandizip/"
+        },
+        {
+          "name": "7Zip",
+          "url": "https://sparanoid.com/lab/7z/"
+        },
+        {
+          "name": "360 压缩",
+          "url": "https://yasuo.360.cn/"
+        },
+        {
+          "name": "IDM下载器(网上有破解的）",
+          "url": "https://www.internetdownloadmanager.com/"
+        }
+      ]
+    },
+    "top_1776569422286": {
+      "1": [
+        {
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/"
+        },
+        {
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/"
+        },
+        {
+          "name": "智谱清言",
+          "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+        },
+        {
+          "name": "Kimi",
+          "url": "https://www.kimi.com/"
+        },
+        {
+          "name": "文心一言",
+          "url": "https://yiyan.baidu.com/"
+        },
+        {
+          "name": "通义千问",
+          "url": "https://www.qianwen.com/"
+        },
+        {
+          "name": "ChatGPT(容易被墙需要VPN)",
+          "url": "https://chatgpt.com/"
+        }
+      ]
+    }
+  }
+}
