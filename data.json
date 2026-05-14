@@ -404,6 +404,14 @@
         {
           "name": "indexTTS_Server",
           "url": "https://pan.quark.cn/s/c2f30a874f06"
+        },
+        {
+          "name": "VisualStudio",
+          "url": "https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/"
+        },
+        {
+          "name": "Python",
+          "url": "https://www.python.org/downloads/"
         }
       ]
     },
