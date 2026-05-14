@@ -544,6 +544,10 @@
         {
           "name": "AstrBot官网",
           "url": "https://docs.astrbot.app/what-is-astrbot.html"
+        },
+        {
+          "name": "NapCat",
+          "url": "https://github.com/NapNeko/NapCatQQ/releases/download/v4.18.1/NapCat.Shell.Windows.OneKey.zip"
         }
       ]
     }
