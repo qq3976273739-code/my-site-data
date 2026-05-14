@@ -400,6 +400,10 @@
         {
           "name": "优酷视频",
           "url": "https://www.youku.com/ku/product/index"
+        },
+        {
+          "name": "indexTTS_Server",
+          "url": "https://pan.quark.cn/s/c2f30a874f06"
         }
       ]
     },
@@ -514,6 +518,26 @@
           "url": "https://live.bilibili.com/liveHime/"
         }
       ]
+    },
+    "extra_1778733603271": {
+      "1": [
+        {
+          "name": "AstrBot桌面端",
+          "url": "https://github.com/AstrBotDevs/AstrBot-desktop/releases/download/v4.24.5/AstrBot_4.24.5_windows_arm64_setup.exe"
+        },
+        {
+          "name": "AstrBot安装器（需要您的电脑上预先安装好 Python 环境（3.10 - 3.13），并且将 Python 添加到环境变量中，否则安装器将无法正常工作）",
+          "url": "https://github.com/AstrBotDevs/AstrBotLauncher/releases/latest"
+        },
+        {
+          "name": "emotionTTS_v4.5",
+          "url": "https://pan.quark.cn/s/ce957df4e25e"
+        },
+        {
+          "name": "AstrBot官网",
+          "url": "https://docs.astrbot.app/what-is-astrbot.html"
+        }
+      ]
     }
   },
   "extraPages": {
@@ -528,6 +552,9 @@
     "extra_1776590527203": {
       "name": "直播软件",
       "id": "extra_1776590527203"
+    },
+    "extra_1778733603271": {
+      "name": "AstrBot专区"
     }
   },
   "subNavList": [
@@ -548,7 +575,12 @@
       "type": "new",
       "targetId": "extra_1776590527203",
       "newPageName": "直播软件"
+    },
+    {
+      "name": "AstrBot专区",
+      "type": "new",
+      "targetId": "extra_1778733603271",
+      "newPageName": "AstrBot专区"
     }
-  ],
-  "feedbackList": []
+  ]
 }
